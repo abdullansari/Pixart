@@ -1,5 +1,5 @@
 # Pixart
-A Python written algorithim that takes user input from the terminal and outputs the desired pixelated art using Python's Turtle 🐢.
+A Python written algorithm that takes user input from the terminal and outputs the desired pixelated art using Python's Turtle 🐢.
 
 The input must be between 0-9, and A-C. Furthermore, each input represents one row of the pixelated art therefore providing all input as one line is not advised.
 
